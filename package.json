@@ -1,0 +1,21 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon activityMonitor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriibilous4/node-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriibilous4/node-2/issues"
+  },
+  "homepage": "https://github.com/andriibilous4/node-2#readme"
+}
